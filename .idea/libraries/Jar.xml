@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Jar/jdt-compiler-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/joda-time-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/jasperreports-6.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/commons-collections-20040616.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Jar/commons-logging-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

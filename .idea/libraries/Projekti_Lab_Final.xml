@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Projekti Lab Final">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jtds-1.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/1383067774_iReport-5.5.0-plugin.zip!/" />
+      <root url="jar://$PROJECT_DIR$/itext-2.1.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
